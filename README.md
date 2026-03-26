@@ -2,7 +2,7 @@
 <br>- I'm pursuing my MSc. in Data Science (Thesis ongoing) at TU Dortmund<br>- I’m currently working on real-world data science and machine learning projects in a data science team, focusing on applied analytics and NLP use cases.<br>- I’m currently learning advanced deep learning, NLP (Agentic AI, LLMs), and improving my skills in scalable ML systems (MLops).<br>- I’m looking to collaborate on data science, machine learning, and NLP projects—especially those with real-world impact.<br>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jahid-hossain-any-a7a8a718b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahid.hossain.any@gmail.com) 
 
 # 💻 Tech Stack:
