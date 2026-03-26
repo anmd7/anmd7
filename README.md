@@ -1,5 +1,5 @@
 # Hello, I'm Jahid,
-<br>- I'm pursuing my MSc. in Data Science (Thesis ongoing) at TU Dortmund<br>- I’m currently working on real-world data science and machine learning projects in a data science team, focusing on applied analytics and NLP use cases.<br>- I’m currently learning advanced deep learning, NLP (Agentic AI, LLMs), and improving my skills in scalable ML systems (MLops).<br>- I’m looking to collaborate on data science, machine learning, and NLP projects—especially those with real-world impact.<br>- How to reach me: <br>
+<br>- I'm pursuing my MSc. in Data Science (Thesis ongoing) at TU Dortmund<br>- I’m currently working on real-world data science and machine learning projects in a data science team, focusing on applied analytics and NLP use cases.<br>- I’m currently learning advanced deep learning, NLP (Agentic AI, LLMs), and improving my skills in scalable ML systems (MLops).<br>- I’m looking to collaborate on data science, machine learning, and NLP projects—especially those with real-world impact.<br>
 
 
 ## 🌐 Socials:
