@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Jahid
 
 🎓 MSc Data Science (Thesis ongoing) at TU Dortmund University  
-📊 Data Scientist | Machine Learning | NLP | LLM
+📊 Data Scientist | Machine Learning | Deep Learning | NLP | LLM
 
 ---
 
