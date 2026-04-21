@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 With nearly 4 years of experience as a Data Scientist, I have hands-on expertise across the full lifecycle of data science projects—from data engineering and preprocessing to developing and deploying machine learning and NLP models.
 
