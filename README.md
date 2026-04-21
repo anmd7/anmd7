@@ -41,14 +41,7 @@ I’m looking to collaborate on:
 
 ---
 
-## 📈 Currently Learning
 
-- Advanced Deep Learning  
-- NLP (LLMs, Agentic AI systems)  
-- Scalable ML systems and MLOps  
-- Production-grade machine learning architectures  
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahid-hossain-any-a7a8a718b) 
