@@ -25,6 +25,12 @@ I am particularly interested in bridging the gap between **machine learning rese
 
 ---
 
+## 📚 Publications
+
+- Semantic Segmentation of Brain Tumor from 3D Structural MRI Using U-Net Autoencoder  
+  *International Conference on Machine Learning and Cybernetics (ICMLC), 2020*  
+  🔗 [Paper]([YOUR_LINK_HERE](https://ieeexplore.ieee.org/document/9469580))
+
 ## 🤝 Collaboration
 
 I’m looking to collaborate on:
