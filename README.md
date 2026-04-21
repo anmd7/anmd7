@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Jahid
 
 🎓 MSc Data Science (Thesis ongoing) at TU Dortmund University  
-📊 Data Scientist | Machine Learning | NLP | Applied AI | MLOps  
+📊 Data Scientist | Machine Learning | NLP | LLM
 
 ---
 
@@ -17,10 +17,10 @@ I am particularly interested in bridging the gap between **machine learning rese
 
 ## 🧠 Research & Interests
 
-- Natural Language Processing (LLMs, Agentic AI)
-- Deep Learning (Vision, Audio, Time-Series)
+- Natural Language Processing (LLMs, Agents, Agentic AI)
+- Deep Learning (Time-Series, Images, Audio)
 - Explainable AI (XAI)
-- Machine Learning Systems & MLOps
+- Machine Learning Systems
 - Industrial AI Applications
 
 ---
